@@ -5,7 +5,7 @@ sudo: false
 
 notifications:
   email:
-    recipients: sricher@ncsu.edu
+    recipients: sghosh23@ncsu.edu
     on_success: change
     on_failure: always
 
