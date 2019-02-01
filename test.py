@@ -9,4 +9,4 @@ result = subprocess.check_output("./a.out")
 if(result == b"Hello World!\n"):
     print("SUCCESS")
 else:
-raise Exception("FAILURE")
+    raise Exception("FAILURE")
